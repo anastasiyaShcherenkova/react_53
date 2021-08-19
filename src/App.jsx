@@ -5,5 +5,4 @@ class App extends React.PureComponent {
     return <div>pep</div>;
   }
 }
-
 export default App;
