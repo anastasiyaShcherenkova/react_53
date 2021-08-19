@@ -1,7 +1,7 @@
 export default {
   container: {
     display: 'flex',
-    heigth: '100%',
+    height: '100%',
   },
   container_vertical: {
     flexDirection: 'column',
