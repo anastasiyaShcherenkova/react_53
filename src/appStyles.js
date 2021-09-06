@@ -9,4 +9,7 @@ export default {
   container_horisontal: {
     flexDirection: 'row',
   },
+  kanban_wrapper: {
+    width: '80%',
+  },
 };

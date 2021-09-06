@@ -1,11 +1,7 @@
 export default {
   header: {
     padding: '15px',
-    backgroundColor: '#d952a3',
+    backgroundColor: '#0C2D48',
     color: '#fff',
-  },
-  logo: {
-    fontSize: '30px',
-    textTransform: 'uppercase',
   },
 };
